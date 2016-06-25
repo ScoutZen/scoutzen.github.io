@@ -11,7 +11,7 @@ email: info@scoutzen.com
 description: > # this means to ignore newlines until "baseurl:"
   Scout the right people and communities, inform your interests.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://www.scoutzen.com" # the base hostname & protocol for your site
+url: "https://blog.scoutzen.com" # the base hostname & protocol for your site
 twitter_username: scoutzen
 
 # Build settings

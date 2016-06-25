@@ -5,7 +5,9 @@ date:   2016-06-20 13:37:19 -0700
 categories: twitter twitter-lists sports nfl social-media
 ---
 
-> The ESPN World Fame 100 is an attempt to create a ranking, through statistical analysis, of the 100 most famous athletes on the planet.
+![ESPN World Fame 100](/assets/1-X5X8iiQ4mm58HFzV1qzn1Q.png)
+
+> The [ESPN World Fame 100](http://espn.go.com/espn/feature/story/_/id/15685581/espn-world-fame-100) is an attempt to create a ranking, through statistical analysis, of the 100 most famous athletes on the planet.
 ESPN director of sports analytics Ben Alamar created a formula that combined athletes’ salary/winnings and endorsements with their social media following — Facebook, Twitter and Instagram — along with Google search popularity to create a comparative ranking system.
 
 We started off by making a [Twitter list which includes these athletes](https://twitter.com/scoutzen/lists/espn-world-fame-100).
@@ -32,8 +34,8 @@ the Twitter generation? And perhaps Tom Brady leaves Twitter to [Gisele and her
 
 #### The Twitter Numbers
 
-For the 94 that are on the list, we crunched some numbers. These are the median
-numbers for these 100 famous athletes when it comes to Twitter.
+For the 94 that are on the list, we crunched some numbers. These are the
+**median** numbers for these 100 famous athletes when it comes to Twitter.
 
 * #Followers: 2,135,909
 * #Friends: 231
@@ -41,6 +43,8 @@ numbers for these 100 famous athletes when it comes to Twitter.
 * #Listed: 7581
 
 And here are the athletes with the most for each of these categories.
+
+![](/assets/1-feWeidULHMW1f6-PduamWg.png)
 
 * Most followers: [Cristiano Ronaldo](http://twitter.com/Cristiano) (41.5M)
 * Most friends: [DwightHoward](https://twitter.com/DwightHoward) (7.7K)
