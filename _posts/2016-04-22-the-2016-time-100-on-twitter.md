@@ -39,7 +39,9 @@ likely feel no obligation to do so.
 After exporting into a spreadsheet, we can get some aggregate stats on the
 group.
 
-* Exported List of Time 100’s Twitter Profiles
+![Exported List of Time 100’s Twitter Profiles](/assets/1-lXirzMFZ6QkKJOe3onnsIQ.png)
+
+
 * Median Followers: 596,584
 * Median Friends: 348
 * Median Tweets: 3602
