@@ -7,7 +7,7 @@
 
 # Site settings
 title: ScoutZen Blog
-email: contact@scoutzen.com
+email: info@scoutzen.com
 description: > # this means to ignore newlines until "baseurl:"
   Scout the right people and communities, inform your interests.
 baseurl: "" # the subpath of your site, e.g. /blog
