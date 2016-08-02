@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Sync to Twitter - Available in Beta"
+title:  "Sync lists to Twitter - Available in Beta"
 date:   2016-08-01 16:30:00 -0700
 categories: scoutzen-news twitter-lists
 ---
