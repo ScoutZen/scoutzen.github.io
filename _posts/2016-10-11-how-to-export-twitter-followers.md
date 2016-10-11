@@ -92,3 +92,6 @@ are on the Free plan, don't worry. Just go to your [Account settings][acct]
 and change plans to try out export __absolutely FREE for 14 days__.
 
 Happy Scouting!
+
+[sz]: https://www.scoutzen.com
+[acct]: https://www.scoutzen.com/account
