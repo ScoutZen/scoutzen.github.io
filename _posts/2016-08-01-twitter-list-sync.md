@@ -78,4 +78,4 @@ posted on more news and tips from ScoutZen.
 [sz]: https://www.scoutzen.com
 [acct]: https://www.scoutzen.com/account
 [twrl]: https://dev.twitter.com/rest/public/rate-limiting
-[mail]: contact@scoutzen.com
+[mail]: <mailto:contact@scoutzen.com>
