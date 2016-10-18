@@ -1,21 +1,21 @@
 ---
 layout: post
 title:  "Search & Sort to Find & Follow"
-date:   2016-10-15 07:00:00 -0700
+date:   2016-10-17 15:00:00 -0700
 categories: twitter bio search
 ---
 
-Now you can search and sort your Scout results, making your lists even smarter. 
+Now you can search and sort your Scout results, making your lists even smarter.
 With these latest tools, you can easily understand your audience and find
-potential outreach candidates. 
+potential outreach candidates.
 
 Scouts provide results meeting some criteria or context, whether
-mentions, hashtags, followers or list members. Searching people within those 
-results by keywords in their bio, is a powerful way to analyze a Twitter audience 
-or community. This is effective for brand monitoring, event networking and other 
-ways that twitter users gather around a topic. 
+mentions, hashtags, followers or list members. Searching people within those
+results by keywords in their bio, is a powerful way to analyze a Twitter audience
+or community. This is effective for brand monitoring, event networking and other
+ways that twitter users gather around a topic.
 
-ScoutZen lets you apply bio and location search to lists of people discovered 
+ScoutZen lets you apply bio and location search to lists of people discovered
 through any type of scouts. For example:
 
 * Narrow Twitter hashtag and keyword search results by user bio and location.
@@ -29,17 +29,17 @@ followers, most friends, most lists or most active to suit your needs.
 
 ### Filter Hashtag Results
 
-Let's see this strategy in action by finding CEOs taking part in a popular 
+Let's see this strategy in action by finding CEOs taking part in a popular
 Twitter Chat, __#TwitterSmarter__ run by [Twitter Marketing Strategist
 Madalyn Sklar][smarter].
 
-First, create a Scout for the #TwitterSmarter hashtag, which will 
+First, create a Scout for the #TwitterSmarter hashtag, which will
 continually monitor Twitter for tweets with this hashtag. As results are
-gathered, you can filter for those with CEO in their bio and sort by followers. 
+gathered, you can filter for those with CEO in their bio and sort by followers.
 
 ![Filter Twitter Search Results by bio](/assets/hashtag-search-twitter-bios.png)
 
-You've just found Twitter loving CEOs! 
+You've just found Twitter loving CEOs!
 
 While this example uses a job title to filter on, you could search for company name, industry or other terms to identify the best people to connect with further.
 
@@ -59,8 +59,8 @@ Let's say you have a [list of CMOs on Twitter][cmo]. After building that great b
 ![Twitter List members search results sorted by followers](/assets/search-twitter-bios.png)
 
 Search and sort help you find your way through hundreds of thousands of
-results quickly. In conjunction with [CSV export][export], these tools can make 
-your lists and workflow even more efficient. 
+results quickly. In conjunction with [CSV export][export], these tools can make
+your lists and workflow even more efficient.
 
 [Give it a try today!][sz]
 
@@ -69,4 +69,3 @@ your lists and workflow even more efficient.
 [smarter]: http://www.madalynsklar.com/twittersmarterchat/
 [cmo]: https://twitter.com/scoutzen/lists/cmos-on-twitter
 [export]: /export/twitter/followers/2016/10/11/how-to-export-twitter-followers.html
-
