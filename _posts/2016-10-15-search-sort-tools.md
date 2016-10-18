@@ -62,6 +62,8 @@ Search and sort help you find your way through hundreds of thousands of
 results quickly. In conjunction with [CSV export][export], these tools can make 
 your lists and workflow even more efficient. 
 
+[Give it a try today!][sz]
+
 [sz]: https://www.scoutzen.com
 [mail]: <mailto:contact@scoutzen.com>
 [smarter]: http://www.madalynsklar.com/twittersmarterchat/
