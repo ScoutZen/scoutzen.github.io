@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Scout with Twitter Advanced Search"
-date:   2017-02-07 09:00:00 -0800
+date:   2017-02-08 09:40:00 -0800
 categories: guide
 ---
 
@@ -122,101 +122,112 @@ It is important to keep in mind that tweets are conversations, not
 documents or blog posts, obviously. For best search results, your keywords
 and phrases should reflect the manner in which people talk to each other.
 
-### 1. Gather people sharing your content.
+### 1. People sharing your content.
 
-People replying to your tweets, mentioning you in their tweets or
-sharing your content are already engaged with you. With ScoutZen, it
-is easy to maintain an ongoing list of your fans.
+Gather all the people who share your blog posts and articles or
+reference you in their tweets.
 
-### 1. People you have interacted with
-makes it easy to gather all 
-Saved searches can be great to keep an eye on people sharing your content, keywords relevant to your brand and your own mentions.
+[![Scout for people sharing your content](/assets/scout-examples/sharing-content.png)][szlp]
 
-It can be hard to recall all of your interactions with another person on Twitter. As a way to refresh your mind, you can use the ‘From these accounts’ and ‘To these accounts’ filters.
+People mentioning you in their tweets or sharing your content are
+already engaged with you. With ScoutZen, it is easy to maintain an
+ongoing list of your fans.
 
-Find the most popular Tweets about a topic, or competitor's tweets
-gaining traction
+### 2. People sharing articles on certain topics
 
-Find ideas for blog posts
-Twitter is a great source of inspiration for blog posts. When researching a post, Advanced Search is a great way to see what people are talking about relating to subject.
+Find bloggers or authors who post content about topics you care about. In
+addition to learning from things they share, you can use the list to
+reach out in the future with your thoughts and contributions.
 
-Find great blog posts
-If you’re looking to find some great blog posts or content on a certain subject, Twitter Advanced Search can be a great way to unearth some real gems.
+[![Scout for people sharing topical content](/assets/scout-examples/with-content.png)][szlp]
 
-In the search fields you can add your chosen topic to the ‘All of these words’ field and then add ‘http’ to ‘This Exact phrase’.
+### 3. People sharing a particular article
 
-Find content shared by selected accounts
-For example, if you would like to see how all of your favorite tweeters are reacting to some news, search for a keyword and their names.
+Let's say we want to know all the people who shared this particular
+article. We can be very specific by searching for the link. Or we can
+broaden it smartly to build a more useful list of people.
 
-If you’re looking to find people who are talking about your brand in a certain location, head down to the Places section of Advanced Search and look up the areas you’d like to focus on.
-This feature can be extra useful if you pair the search with a couple of keywords. For example: ‘@Buffer buffer.com near:”London, England” within:15mi’
+[![Scout for people sharing a link](/assets/scout-examples/link-search.png)][szlp]
 
-Monitor mentions of your company
-Using Twitter’s Advanced Search to monitor your brand can be extremely effective. As well as monitoring mentions of your brand name, Advanced Search allows you to keep an eye on mentions of your Twitter handle and even any Tweets that include your URL.
-Here’s a search we use for all things Buffer: @buffer buffer.com
+### 4. People mentioning you or your industry peers
 
-Filter out competitor Tweets
-If you want to filter out any results mentioning competitors of yours, you can do so by adding their username and URL in the “None of these words” Advanced Search field.
+It's obvious how to find people mentioning one account. But did you know
+how easy it is to find people mentioning any of a slew of companies or
+products? Just OR them all.
 
+[![Scout for people mentioning](/assets/scout-examples/or-mentions.png)][szlp]
 
-Find happy and un-happy customers
-Twitter search is a great way to quickly see a snapshot of how happy (or un-happy) your customers are.
-These types of searches will help you stumble upon some great feedback and ideas too. For example, a Tweet where a customer expresses frustration could spark discussion around how you could improve your product or service.
-To include sentiment filters in your search, tick the relevant box over on the Advanced Search page or simply add a happy or un-happy emoticon to the end of your search term, e.g. “buffer :(” or “buffer :)”.
+### 5. People NOT mentioning your competition
 
-Monitor sentiment about competitors
-Similarly to how you can monitor sentiment about your own brand, Twitter Advanced Search gives you the power to keep tabs on how customers are talking about your competitors too.
-In order to check out what people are saying about competitors, add their company name and URL to the ‘All of these words’ bar.
+If someone is talking about a topic without mentioning any of your
+competitors, your chances at engagement and conversion are likely
+higher. It's easy to do that by specifying keywords or phrases while
+excluding product or company names.
 
-Search your competitor’s tweets
-This is a great tip I picked up from Tim Baran. Using Advanced Search you can filter through tweets from any account and for selected keywords. To do this, simply use the ‘All of these words’ and ‘From these accounts’ fields.
-Here’s an example that will show all of the times our Buffer Twitter account has mentioned ‘transparency’.
-from:buffer “transparency” 
+[![Scout for people not mentioning](/assets/scout-examples/not-mentions.png)][szlp]
 
-See Results for Only the People You Follow
-The Twitter world moves fast and sometimes it can be easy to miss great content from the people you follow.
-Thankfully, Twitter search allows you to filter Tweets from only people you follow. This, coupled with is a great way to make sure you don’t miss anything from your favorite tweeters on the subjects you care about.
-Here’s an example search I used to see who from the people I follow had been talking about content marketing:
+### 5. People unhappy with a product
 
-Find video related to a topic
-Video is such an awesome way to bring content to life and if you’re in search of a video on a specific topic, Twitter search provides a great alternative to YouTube Search. To filter videos search using either Advanced search or toolbar search the and then select Videos from the results page filters.
+In addition to monitoring your brand, you can also keep an eye out on
+how customers are talking about your competitors. Simply include the
+sentiment operators, along with product names or company handles. If you
+want to be specific, you can use the __to:__ operator to look for people
+responding directly to a particular account.
 
- View questions only
-If you tick the ‘Question ?’ box on the Advanced Search page you will only be shown results that are questions. This is a real neat trick if you do a lot of your customer support over Twitter.
+[![Scout for people unhappy with a product](/assets/scout-examples/product-unhappy.png)][szlp]
 
-Look for buying signals
-Listening is extremely important in social media and by keeping an eye on what people are saying, you can find some exciting opportunities.
-Searching for terms like ‘anyone recommend’ or ‘any advice on’ are really great ways to identify people with on the lookout for some help and advice.
-Also keep an eye out for any buying signals shown on Twitter (for example, dissatisfaction with a competitor or showing a need your product can fulfil) and engage to get the sales cycle in motion. Try not to be too “salesy” and more conversational at this stage. Or, if you can spot someone who is looking to make a purchase imminently, jump in and get on their radar.
+If done right, not only can this list drive engagement and conversion,
+you are also likely to get ideas for new features and product
+improvement.
 
-Think about what potential leads might tweet if they have a need or problem that your business can fulfill or solve. Here are some examples:
+Don't overlook the question __?__ sentiment. This can lead to people
+having questions about how to achieve a particular goal within a
+product. You might be able to help them or provide them with a better
+alternative.
 
-Tweets that ask for a recommended supplier in a specific location.
-Problem tweets: A broken phone, broken fence, delayed train.
-Goal tweets: Lose weight, start a business, get a new job.
-Need and want tweets: Need a drink, need food, want a new car.
-Feeling tweets: Stressed, upset, tired, thankful, in love.
-Once you have a list of tweet ideas, start testing searches for those ideas. For example, if you’re a tour guide in London looking for potential leads, you could enter “recommend tour London” into the All of These Words field and select the Question check box.
+### 6. People sharing videos
 
-Use the templates below to start your search query research:
+Let's say you provide video editing services and would like to reach out
+to people creating or sharing informational videos. Or if you want to
+make a list of companies putting out a screencast. It's easy enough with
+the __filter:videos__ operator.
 
-“Recommend [YOUR BUSINESS TYPE] [TARGET MARKET LOCATION] ?”
-“Broken [SOMETHING YOUR BUSINESS FIXES] [TARGET MARKET LOCATION] ?”
-“[GOAL YOUR BUSINESS HELPS ACHIEVE] near:[TARGET MARKET LOCATION]”
-“Need [PRODUCT YOUR BUSINESS SELLS] near:[TARGET MARKET LOCATION]’
-“Want [PRODUCT YOUR BUSINESS SELLS] near:[TARGET MARKET LOCATION]”
-“[ENTER A NEGATIVE FEELING YOUR PRODUCT/SERVICE COMBATS] near:[ENTER TARGET MARKET LOCATION]”
+[![Scout for people sharing videos](/assets/scout-examples/video-guides.png)][szlp]
+
+Don't forget the equivalent __filter:images__  if you care about
+pictures and infographics.
+
+### 7. People talking about you in a city
+
+ScoutZen makes it particularly easy to find people talking about your
+brand in a certain location. The auto-suggest city picker eliminates
+guesswork in geo-names or tedious lat-long input. Simply pick the right
+city, specify the geographic coverage (e.g. 15 mi or 25km) and your
+search will be focused on that area.
+
+[![Scout for people near place](/assets/scout-examples/near-place.png)][szlp]
+
+### 8. People signaling intent to buy
+
+You can create your own search templates specific to your product or
+niche in order to discover great opportunities and develop outreach. For
+example, "anyone recommend" OR "any advice" OR "need something" are good
+phrases to consider. These could be used in conjunction with any of the
+examples illustrated so far.
+
+### What's Next
+
+Those are just a few ideas for scouts you can use today to gather
+people, build lists and drive campaigns. Do you have any neat search
+tricks? We would love to hear them.
+
+[Start an advanced search scout now!][szlp]
 
 [szlp]: https://www.scoutzen.com/welcome/monitor-twitter-hashtags
 [search-home]: https://twitter.com/search-home
 [tw-search]: https://twitter.com/search-advanced
 [tw-support]: https://support.twitter.com/articles/71577
 [howto]: https://blog.twitter.com/2016/how-to-advanced-search-on-twitter
-[buffer-guide]: https://blog.bufferapp.com/twitter-advanced-search
-[buffer-listen]: https://blog.bufferapp.com/social-listening
-[dan-neely]: http://www.marketingprofs.com/articles/2010/3634/social-media-listening-vs-social-media-monitoring-truly-connecting-or-merely-collecting
-[sm-influence]: http://www.socialmediaexaminer.com/6-ways-to-use-advanced-twitter-search-for-increased-influence/
-[zapier-guide]: https://zapier.com/blog/twitter-advanced-search-guide/#common-search-queries
-
 [search-sort]: /twitter/bio/search/2016/10/17/search-sort-tools.html
 [tailored]: https://business.twitter.com/en/help/campaign-setup/campaign-targeting/tailored-audiences.html
+
