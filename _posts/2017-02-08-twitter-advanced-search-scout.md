@@ -53,7 +53,7 @@ places, dates and sentiment, to find tweets:
 1. Within a specific date range
 1. Tone: Positive, Negative, Question?
 
-By combining fields, a search can be customized in flexible ways. 
+By combining fields, a search can be highly customized for any purpose.
 
 ### Search Operators
 
@@ -81,6 +81,30 @@ text queries.
 
 Using search operators, you can make the context unambiguous and the
 results more relevant. 
+
+## Automating Twitter Search
+
+You can always do ad-hoc, one-off searches on Twitter using Advanced
+Search parameters and operators described above. [Ash Read][ashread]
+at Buffer outlines [two dozen different ways to use Advanced Search][buffer]
+for marketing and sales, and is an excellent guide (even if you are not
+a Superhuman :)
+
+For busy mortals, however, automation is the saving grace.
+
+[Daniel Knowlton][dknowlton1] has a great article on [automating the discovery
+of leads][sme-leads]. In addition to step-by-step instructions on using
+[IFTTT][ifttt] to get email notification for search results, he also outlines
+smart strategies for search and engagement.
+
+If your company uses Zapier, you can set up automation to [send new search
+results to your inbox, phone, Slack or HipChat][zapier].
+
+ScoutZen automates the search by gathering people with matching tweets
+and building lists. You can think of it as a long-running search to
+drive your campaigns and gather insights for promotions. In the next two
+sections, we will describe how to set up and use scouts to help with your
+goals.
 
 ## ScoutZen and Advanced Search
 
@@ -230,4 +254,10 @@ tricks? We would love to hear them.
 [howto]: https://blog.twitter.com/2016/how-to-advanced-search-on-twitter
 [search-sort]: /twitter/bio/search/2016/10/17/search-sort-tools.html
 [tailored]: https://business.twitter.com/en/help/campaign-setup/campaign-targeting/tailored-audiences.html
+[dknowlton1]: https://twitter.com/dknowlton1
+[ashread]: https://twitter.com/Ashread_
+[sme-leads]: http://www.socialmediaexaminer.com/how-to-automate-the-discovery-of-twitter-leads/
+[buffer]: https://blog.bufferapp.com/twitter-advanced-search
+[ifttt]: https://ifttt.com
+[zapier]: https://zapier.com/blog/twitter-advanced-search-guide/
 
