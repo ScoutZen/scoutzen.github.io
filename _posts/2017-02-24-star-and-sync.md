@@ -100,9 +100,9 @@ Twitter list. Starred items from all the different scouts will be added
 to the list. Unstarred items will be removed, provided they are not
 starred in other scouts syncing to the same list. 
 
-Of course, as before, every scout can list to its own Twitter list. The
-list can be changed at any point, in which case the new list will be
-initialized with all previously starred results.
+Of course, as before, every scout can sync to its own Twitter list. The
+target list can be changed at any point, in which case the new list will
+be initialized with all previously starred results.
 
 ### One more thing...
 
