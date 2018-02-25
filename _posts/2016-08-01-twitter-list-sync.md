@@ -5,6 +5,9 @@ date:   2016-08-01 16:30:00 -0700
 categories: scoutzen-news twitter-lists
 ---
 
+__UPDATE: As of Feb 2017, sync to lists works with
+[starred results](/features/2017/02/24/star-and-sync.html).__
+
 ScoutZen now lets you sync your scout results to Twitter lists. If you
 are on a paid plan, [sign in to ScoutZen][sz] and set it up now. If you
 are on the Free plan, don't worry. Just go to your [Account settings][acct]
